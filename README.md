@@ -1,4 +1,4 @@
-# the-sniper
+# The Sniper
 A sniper game created using the pygame module in python.
 
 Run by executing run.py
